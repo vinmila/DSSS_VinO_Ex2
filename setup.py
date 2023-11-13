@@ -2,9 +2,9 @@ from distutils.core import setup
 from setuptools import find_packages
 
 setup(
-    name="snowflake",
+    name="mathsquiz",
     version="0.1",
-    author="DSSS",
-    author_email="luisa.e.neubig@fau.de",
+    author="Vinoth Kumar",
+    author_email="vinoth.mila@gmail.com",
     packages=find_packages()
 )
