@@ -1,0 +1,25 @@
+# Byte-compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+*.env/
+
+# Distribution and build folders
+dist/
+build/
+
+# Local development settings
+*.bak
+*.log
+*.sqlite3
+
+# Miscellaneous
+*.swp
+.DS_Store
+.idea/
+.vscode/
